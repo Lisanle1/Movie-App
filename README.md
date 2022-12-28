@@ -51,20 +51,16 @@ A MERN STACK Application(Movie APP) with the inspire of netflix. We can see the 
 
 <hr>
 
-#Features:-
+# Features:-
 * Movie app with Authenticate User.
-* Able to see newely released movie with ratings, auidence reviews and instanly watch any movie trailer, poster etc.
+* Able to see newely released movie with ratings, audience reviews and instanly watch any movie trailer, poster etc.
 * Users also read, write or delete the movie reviews and make wishlist of your favorite movie.
-
-<hr>
 
 # Tech Stack:-
 * React,Redux.
 * Node JS, Express JS, MongoDB.
 * Material UI.
 * The Movie Database(TMDB) API.
-
-<hr>
 
 ## Easy Installation:-
 > cd client
