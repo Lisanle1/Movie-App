@@ -49,6 +49,11 @@ A MERN STACK Application(Movie APP) with the inspire of netflix. We can see the 
 
 <hr>
 
+#Features:-
+* Movie app with Authenticate User.
+* Able to see newely released movie with ratings, auidence reviews and instanly watch any movie trailer, poster etc.
+* Users also read, write or delete the movie reviews and make wishlist of your favorite movie.
+
 # Tech Stack:-
 * React,Redux.
 * Node JS, Express JS, MongoDB.
