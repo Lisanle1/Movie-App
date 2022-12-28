@@ -1,5 +1,6 @@
 # Movie-App
-
+A MERN STACK Application(Movie APP) with the inspire of netflix. We can see the newly released movie with ratings, reviews. Movie App with best features in mobile,web, and iOS platforms, completely responsive design using material ui.   
+<hr>
 ## Login / Signup Page:-
 
 ![Screenshot (100)](https://user-images.githubusercontent.com/105549298/209826091-fe3aefb6-706f-4e80-93fc-1d96ecb4bbdf.png)
@@ -46,6 +47,24 @@
 
 ![Screenshot (126)](https://user-images.githubusercontent.com/105549298/209828443-65823365-b84a-4aa2-b1a8-9afc9e963b09.png)
 
+<hr>
 
+# Tech Stack:-
+* React,Redux.
+* Node JS, Express JS, MongoDB.
+* Material UI.
+* The Movie Database(TMDB) API.
+
+## Easy Installation:-
+> cd client
+> > npm install & npm start
+> 
+> cd server
+> > npm install & npm run dev
+> > 
+> Paste your mongoDB Atlas URL and start your application.  
+
+## Demo Credentials:-
+email: user@gmail.com password: users123
 
 
