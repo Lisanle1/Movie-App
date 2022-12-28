@@ -1,6 +1,7 @@
 # Movie-App
-A MERN STACK Application(Movie APP) with the inspire of netflix. We can see the newly released movie with ratings, reviews. Movie App with best features in mobile,web, and iOS platforms, completely responsive design using material ui.   
-<hr>
+
+#### A MERN STACK Application(Movie APP) with the inspire of netflix. By use of this Movie App we can see the newly released movie with ratings and instant audience reviews. Movie App with best features in mobile, web, and iOS platforms completely responsive design using material ui.   
+
 ## Login / Signup Page:-
 
 ![Screenshot (100)](https://user-images.githubusercontent.com/105549298/209826091-fe3aefb6-706f-4e80-93fc-1d96ecb4bbdf.png)
@@ -53,8 +54,8 @@ A MERN STACK Application(Movie APP) with the inspire of netflix. We can see the 
 
 # Features:-
 * Movie app with Authenticate User.
-* Able to see newely released movie with ratings, audience reviews and instanly watch any movie trailer, poster etc.
-* Users also read, write or delete the movie reviews and make wishlist of your favorite movie.
+* Able to see newly released movie with ratings, audience reviews and instanly watch any movie trailer, poster etc.
+* Users also can read, write or delete the movie reviews and make wishlist of your favorite movie.
 
 # Tech Stack:-
 * React,Redux.
