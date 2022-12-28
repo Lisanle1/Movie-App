@@ -8,13 +8,7 @@
 ## Landing Page:-
 ![Screenshot (103)](https://user-images.githubusercontent.com/105549298/209826198-5c384448-312c-4492-9ea5-b0f02a512cda.png)
 
-![Screenshot (104)](https://user-images.githubusercontent.com/105549298/209826552-18a39701-b815-4bf9-8832-789cc7abe750.png)
-
 ![Screenshot (105)](https://user-images.githubusercontent.com/105549298/209826578-64fd7591-0db0-47b8-8584-563de11bc4a7.png)
-
-![Screenshot (106)](https://user-images.githubusercontent.com/105549298/209826605-623762dd-1002-4a85-8e54-8211f6fcd56b.png)
-
-![Screenshot (107)](https://user-images.githubusercontent.com/105549298/209826619-45792f52-83c4-4885-b247-b77ebfdb2ed3.png)
 
 ## Movie Lists:-
 ![Screenshot (108)](https://user-images.githubusercontent.com/105549298/209826516-8a75c5b6-6348-443b-b8b4-66477e1ffd10.png)
