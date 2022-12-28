@@ -34,7 +34,6 @@
 ![Screenshot (115)](https://user-images.githubusercontent.com/105549298/209827348-b275bd7f-445e-4f3a-9dc1-3a67ea5685c5.png)
 
 ## Favorites:-
-![Screenshot (116)](https://user-images.githubusercontent.com/105549298/209827668-b198695f-bf41-4b72-9e99-f3af81d34b0d.png)
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/105549298/209827674-b38270aa-30ed-4e21-a6ad-b473bfd4d1aa.png)
 
