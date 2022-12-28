@@ -54,6 +54,7 @@
 
 # Features:-
 * Movie app with Authenticate User.
+* Light / Dark mode.
 * Able to see newly released movie with ratings, audience reviews and instanly watch any movie trailer, poster etc.
 * Users also can read, write or delete the movie reviews and make wishlist of your favorite movie.
 
