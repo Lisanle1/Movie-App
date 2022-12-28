@@ -28,6 +28,7 @@ A MERN STACK Application(Movie APP) with the inspire of netflix. We can see the 
 ![Screenshot (113)](https://user-images.githubusercontent.com/105549298/209827310-d04242a8-feb6-4a3e-aeb0-afe1ef1017b2.png)
 
 ### search by tv series name
+
 ![Screenshot (114)](https://user-images.githubusercontent.com/105549298/209827327-facd7443-bb29-4a75-a205-63719ce6caa1.png)
 
 ### search by actors name
@@ -41,6 +42,7 @@ A MERN STACK Application(Movie APP) with the inspire of netflix. We can see the 
 ![Screenshot (125)](https://user-images.githubusercontent.com/105549298/209827701-8109d273-173f-45d0-be8c-822bb5816972.png)
 
 ## Reviews:-
+
 ![Screenshot (121)](https://user-images.githubusercontent.com/105549298/209828210-eeb7c783-a066-4f91-b42b-d35ff8150573.png)
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/105549298/209828432-3be77313-5a8a-45a0-8801-8baebaf45d21.png)
@@ -54,11 +56,15 @@ A MERN STACK Application(Movie APP) with the inspire of netflix. We can see the 
 * Able to see newely released movie with ratings, auidence reviews and instanly watch any movie trailer, poster etc.
 * Users also read, write or delete the movie reviews and make wishlist of your favorite movie.
 
+<hr>
+
 # Tech Stack:-
 * React,Redux.
 * Node JS, Express JS, MongoDB.
 * Material UI.
 * The Movie Database(TMDB) API.
+
+<hr>
 
 ## Easy Installation:-
 > cd client
@@ -68,6 +74,8 @@ A MERN STACK Application(Movie APP) with the inspire of netflix. We can see the 
 > > npm install & npm run dev
 > > 
 > Paste your mongoDB Atlas URL and start your application.  
+
+<hr>
 
 ## Demo Credentials:-
 email: user@gmail.com password: users123
